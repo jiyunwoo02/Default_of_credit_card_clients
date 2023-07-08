@@ -2,7 +2,7 @@
 
 본 프로젝트는 default of credit card clients.csv 파일을 이용하여 의사결정나무 분석을 수행하였습니다.
 
-1.1 (데이터 수집 및 전처리)
+1.1 데이터 수집 및 전처리
 - 아래 data repository에서 원하는 dataset 선택 (변수가 15개 이상, 그리고 실제 label이 있는 데이터 선정)
   https://archive.ics.uci.edu/ml/datasets.php
 - 데이터에 대해서 이해한대로 설명
